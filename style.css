@@ -23,9 +23,9 @@ body {
 .qr-box {
   background-color: hsl(0, 0%, 100%);
   width: 25%;
-  min-width: 200px;
+  min-width: 300px;
   max-width: 400px;
-  height: 62%;
+  height: auto;
   min-height: 300px;
   border-radius: 20px;
   box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.3);
